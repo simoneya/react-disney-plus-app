@@ -1,11 +1,10 @@
- 
- import styled from "styled-components";
+import styled from "styled-components";
  import { Link } from "react-router-dom";
 
- const Recommends = (props) => {
+ const Trending = (props) => {
      return (
          <Container>
-             <h4>Recommended for You</h4>
+             <h4>Trending</h4>
              <Content>
                  <Wrap>
                      <Link to="/">
@@ -78,4 +77,4 @@
   `;
 
 
- export default Recommends;
+ export default Trending;
