@@ -1,3 +1,5 @@
+//firebase configuration from firebase web.
+
 import firebase from 'firebase';
 
 
