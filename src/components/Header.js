@@ -202,7 +202,7 @@ const Login = styled.a`
   border-radius: 4px;
   transition: all 0.2s ease 0s;
   &:hover {
-    background-color: #f9f9f9;
+    background-color: #19A7CE;
     color: #000;
     border-color: transparent;
   }
