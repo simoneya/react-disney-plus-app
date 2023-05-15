@@ -84,7 +84,7 @@ const SignUp = styled.a`
   border: 1px solid transparent;
   border-radius: 4px;
   &:hover {
-    background-color: #0483ee;
+    background-color: #2CD3E1;
   }
 `;
 
